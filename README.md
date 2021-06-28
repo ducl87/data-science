@@ -8,5 +8,5 @@
 
 | 名称                                                         | 类别       | 数据 | 源码 | 视频地址                                                     |
 | ------------------------------------------------------------ | ---------- | ---- | ---- | ------------------------------------------------------------ |
-| [除了今日头条，还有哪些APP会被通报整改？](./android_malware_analysis) | 奇异值检测 | ✅    | ✅    | [YouTube](https://www.youtube.com/watch?v=lqpObIe-sM8&t=9s) \|[B站](https://www.bilibili.com/video/BV1Wq4y1s7XU) |
+| [除了今日头条，还有哪些APP会被通报整改？](./android_malware_analysis) | 奇异值检测 | ✅    | ✅    | [YouTube](https://www.youtube.com/watch?v=lqpObIe-sM8&t=9s) \| [B站](https://www.bilibili.com/video/BV1Wq4y1s7XU) |
 
