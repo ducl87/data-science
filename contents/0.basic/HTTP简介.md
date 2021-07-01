@@ -6,9 +6,9 @@
 
 * [概览](#概览)
 * [HTTP系统的组成部分](#http系统的组成部分)
-  * [客户端 Client: the user-agent](#客户端 Client: the user-agent)
-  * [网络服务器 web server](#网络服务器 web server)
-  * [代理 proxies](#代理 proxies)
+* [客户端 Client: the user-agent](#客户端 Client: the user-agent)
+* [网络服务器 web server](#网络服务器 web server)
+* [代理 proxies](#代理 proxies)
 * [HTTP工作流](#HTTP工作流)
 * [HTTP消息](#HTTP消息)
 
