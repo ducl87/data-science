@@ -24,7 +24,7 @@
 
 * 基本知识：
   * HTTP：
-    * [每天都用的HTTP到底是什么？](./contents/0.basic/HTTP简介.md)
+    * [HTTP简介？](./contents/0.basic/HTTP简介.md)
     * 在Chrome分析HTTP
   * HTML、CSS、JS
 
