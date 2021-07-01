@@ -24,11 +24,9 @@
 
 * 基本知识：
   * HTTP：
-    * 每天都用的HTTP到底是什么？
+    * [每天都用的HTTP到底是什么？](./contents/0.basic/每天都用的HTTP到底是什么？.md)
     * 在Chrome分析HTTP
-  * HTML
-  * headers
-  * XML、json
+  * HTML、CSS、JS
 
 - 分析页面渲染方式
 
@@ -110,5 +108,5 @@
 
 | 类别               | 名称                                                         | 数据 | 源码 | 视频地址                                                     |
 | ------------------ | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
-| 分类 \| 奇异值检测 | [除了今日头条，还有哪些APP会被通报整改？](./contents/android_malware_analysis) | ✅    | ✅    | [YouTube](https://www.youtube.com/watch?v=lqpObIe-sM8&t=9s) \| [B站](https://www.bilibili.com/video/BV1Wq4y1s7XU) |
+| 分类 \| 奇异值检测 | [除了今日头条，还有哪些APP会被通报整改？](./projects/android_malware_analysis) | ✅    | ✅    | [YouTube](https://www.youtube.com/watch?v=lqpObIe-sM8&t=9s) \| [B站](https://www.bilibili.com/video/BV1Wq4y1s7XU) |
 
