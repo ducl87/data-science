@@ -57,19 +57,19 @@ HTTP是一种“客户端-服务器”协议：一次完整的请求（**request
 
 
 
-### 客户端 Client: the user-agent
+### [客户端 Client: the user-agent]()
 
 **user-agent** 理论上可以使任何代表用户（user）的工具或服务，浏览器、网络开发工具、爬虫是常见的user-agent
 
 
 
-### 网络服务器 web server
+### [网络服务器 web server]()
 
 用于响应客户端请求的服务器，它是一个泛称，现如今，为了返回一次请求，可能要查询很多台机器（缓存、数据库、队列等）。
 
 
 
-### 代理 proxies
+### [代理 proxies]()
 
 在浏览器和服务器间，有大量电脑、机器等设备辅助传递HTTP消息，其中大部分都在传输层、网络层、物理层，HTTP协议运行其上，这些服务或组件统称为**代理（proxies）**。
 
@@ -88,7 +88,7 @@ HTTP是一种“客户端-服务器”协议：一次完整的请求（**request
 
 
 
-## HTTP工作流
+## [HTTP工作流]()
 
 客户端向服务器发起HTTP请求具体流程如下：
 
@@ -128,7 +128,7 @@ Content-Type: text/html
 
 
 
-## HTTP消息（Messages）
+## [HTTP消息（Messages）]()
 
 ### 请求（requests）消息
 
