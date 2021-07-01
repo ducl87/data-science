@@ -172,7 +172,7 @@ Content-Type: text/html
 
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview )
 * [TCP/IP、HTTP协议的区别](TCP/IP、HTTP协议的区别)
-* [HTTP/1.x vs. HTTP/2 – The Difference Between the Two Protocols Explained](HTTP/1.x vs. HTTP/2 – The Difference Between the Two Protocols Explained)
+* [HTTP/1.x vs. HTTP/2 – The Difference Between the Two Protocols Explained](https://cheapsslsecurity.com/p/http2-vs-http1/)
 
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
