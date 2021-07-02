@@ -23,11 +23,8 @@
 ## 爬虫相关知识
 
 * 基本知识：
-  * HTTP：
-    * [HTTP简介](./contents/0.basic/HTTP简介.md)
-    * 在Chrome分析HTTP
-  * HTML
-    * HTML简介
+  * HTTP：[HTTP简介](./contents/0.basic/HTTP简介.md)
+  * HTML：[HTML简介](./contents/0.basic/HTML简介.md)
 
 - 分析页面渲染方式
 

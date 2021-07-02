@@ -1,8 +1,19 @@
 # HTML简介
 
-[toc]
+> 编辑时间：2021-07-02
 
 
+
+* 引言
+* HTML到底是什么？
+* HTML文档基本结构
+* HTML 元素
+  * HTML元素的组成
+    * 一般规则
+    * 特例
+  * HTML元素的嵌套
+  * HTML元素的属性
+  * 常见的HTML元素
 
 ## 引言
 
@@ -59,23 +70,88 @@ HTML（Hypertext Markup Language），全称超文本**标记**语言，这是�
 
 ### HTML元素的组成
 
+#### 一般规则
+
+* **开始标签**：如`<p>This is a paragrah. </p>`中的`<p>`，括号中的`p`是标签名称
+* **内容**：如`<p>This is a paragrah. </p>`中的`This is a paragraph.`，标签中的内容会显示在浏览器中；
+* **结束标签**：如`<p>This is a paragrah. </p>`中的`</p>`，结束标签比开始标签`<p>`多了一个`/`。
+
 ![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210702115148.png?x-oss-process=style/wp)
 
 
 
-### HTML元素的嵌套组合
+#### 特例
+
+也有很多标签没有结束标签，如`<img>, <input> <br> <hr>`等，这些标签通过标签的属性显示相关内容。
+
+```html
+<!--显示图片-->
+<img src='https://img1.doubanio.com/img/files/file-1624939019.jpg'>
+<!--输入框-->
+<input type="text" placeholder="书籍、电影、音乐、小组、小站、成员" >
+```
+
+
+
+### HTML元素的嵌套
+
+HTML的一个元素可以嵌套在另一个元素内，如下图中，`<h4>,<ul>`标签嵌套在`<div>`中，而`<li>`又嵌套在`<ul>`中。
+
+![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210702142038.png?x-oss-process=style/wp)
+
+
+
+在真实网页中，嵌套关系可能非常复杂，网页的设计者需要提前规划好网页布局。我们在浏览器源码中可以点击展开箭头查看嵌套的子元素。
+
+![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210702142441.png?x-oss-process=style/wp)
+
+
 
 ### HTML元素的属性
 
+```html
+<input type="text" placeholder="书籍、电影、音乐、小组、小站、成员" >
+```
+
+HTML元素也有自己的属性，如`<input>`标签的`type`属性是`text`，属性一般以`属性名 = 属性值`插入开始标签内。
+
+一个元素可以插入多个属性，比如上面的代码中`<input>`的另一个`placeholder`属性。
+
+
+
 ### 常见的HTML元素
 
+HTML总共约有[100多种元素](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)，但常用的一般只有约20个，分为以下5类：
 
+* 区域布局类
 
+```html
+ <div>, <span>, <header>, <footer>, <nav>, <main>, <section> 
+```
 
+* 文本类
 
+```html
+  <h1> to <h6>, <p>, <div>, <span>, <ul>, <ol>, <li>
+```
 
+* 表单类
 
+```html
+  <form>, <input>, <button>, <label>, <textarea>
+```
 
+* 图片和超链接
+
+```html
+  <img>, <a>
+```
+
+* 其他
+
+```html
+  <br>, <hr>
+```
 
 
 
