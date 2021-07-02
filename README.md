@@ -24,13 +24,17 @@
 
 * 基本知识：
   * HTTP：[HTTP简介](./contents/0.basic/HTTP简介.md)
-  * HTML：[HTML简介](./contents/0.basic/HTML简介.md)
-
-- 分析页面渲染方式
+  * HTML：
+    * [HTML简介](./contents/0.basic/HTML简介.md)
+    * Beautiful Soup 解析HTML
+    * CSS选择器
+    * xpath选择器
+  * 正则表达式
 
 - 服务端渲染：结果都在HTML中
-  - urllib、urllib3、pycurl、hyper、requests、grab等：
-
+  - urllib3、pycurl、hyper、requests、grab等：
+    - [urllib3简介](./contents/1.server_rendered/0.urllib3简介.md)
+    - 
   - 客户端渲染：JS渲染，也可能AJAX获取
 
     - 寻找ajax接口
