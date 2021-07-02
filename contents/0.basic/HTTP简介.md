@@ -92,7 +92,7 @@ HTTP是一种“客户端-服务器”协议：一次完整的请求（**request
 
 客户端向服务器发起HTTP请求具体流程如下：
 
-1. **建立TCP连接：**TCP连接用于发送请求、接收响应消息。客户端可以随时建立新的TCP连接，复用已经存在的连接，或者建立多个连接；
+1. **建立TCP连接**： TCP连接用于发送请求、接收响应消息。客户端可以随时建立新的TCP连接，复用已经存在的连接，或者建立多个连接；
 2. **发送HTTP消息：** HTTP/2 版本之前的HTTP消息是明码直接可读的（如下图），从HTTP/2 开始，HTTP消息被组装进二进制框架（Binary framing)，以提高传输效率、安全性、压缩率等。
 
 <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210701174852.png?x-oss-process=style/wp" style="zoom:50%;" />
@@ -139,7 +139,7 @@ Content-Type: text/html
 请求消息包含以下元素：
 
 * **HTTP请求方法（method）**：请求方法表示客户端对服务器上的资源希望执行的动作，常见方法有：GET、POST、PUT、DELETE等
-* **请求地址（URL）：**一般指我们常说的网址，根据HTTP规定，它可以包含以下元素：协议名（http/https）、域名获取IP、端口、路径、参数、锚点
+* **请求地址（URL）**：一般指我们常说的网址，根据HTTP规定，它可以包含以下元素：协议名（http/https）、域名获取IP、端口、路径、参数、锚点
 
 ![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210701180337.png?x-oss-process=style/wp)
 
@@ -154,7 +154,7 @@ Content-Type: text/html
 响应消息包含以下元素：
 
 * **HTTP版本**
-* **状态码：**显示请求的状态，如成功、失败、未找到地址等，一般有如下几类
+* **状态码**：显示请求的状态，如成功、失败、未找到地址等，一般有如下几类
   * 信息类（100 - 199）
   * 成功类（200 - 299）
   * 重定向 （300 - 399）
@@ -166,7 +166,7 @@ Content-Type: text/html
 
 
 
-
+------
 
 参考信息：
 
