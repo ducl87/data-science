@@ -32,9 +32,10 @@
   * 正则表达式
 
 - 服务端渲染：结果都在HTML中
-  - urllib3、pycurl、hyper、requests、grab等：
+  - urllib3、pycurl、requests、hyper等：
     - [urllib3简介](./contents/1.server_rendered/0.urllib3简介.md)
     - [PycURL简介](./contents/1.server_rendered/1.PycURL简介.md)
+    - requsets简介
   - 客户端渲染：JS渲染，也可能AJAX获取
 
     - 寻找ajax接口
