@@ -15,6 +15,8 @@
 | 分类       | 内容                                 | 链接                                                         | 状态                                                         | 更新时间   |
 | ---------- | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 基本知识   | HTTP                                 | [HTTP简介](./contents/0.basic/HTTP简介.md)                   | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) | 2021-07-01 |
+|            |                                      | Headers 简介                                                 |                                                              |            |
+|            |                                      | 重定向Redirections简介                                       |                                                              |            |
 |            | HTML                                 | [HTML简介](./contents/0.basic/HTML简介.md)                   | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) | 2021-07-02 |
 |            |                                      | Beautiful Soup 解析HTML                                      |                                                              |            |
 |            |                                      | CSS选择器                                                    |                                                              |            |
@@ -22,7 +24,7 @@
 |            | 正则表达式                           |                                                              |                                                              |            |
 | 服务端渲染 | urllib3、pycurl、requests、hyper等： | [urllib3简介](./contents/1.server_rendered/0.urllib3简介.md) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) ![](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81-%E5%B7%B2%E9%AA%8C%E8%AF%81-success) | 2021-07-02 |
 |            |                                      | [PycURL简介](./contents/1.server_rendered/1.PycURL简介.md)   | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success)![](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81-%E5%B7%B2%E9%AA%8C%E8%AF%81-success) | 2021-07-04 |
-|            |                                      | requsets简介                                                 |                                                              |            |
+|            |                                      | [一文了解requests基本和高级用法](./contents/1.server_rendered/2.一文了解requests基本和高级用法.md) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success)![](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81-%E5%B7%B2%E9%AA%8C%E8%AF%81-success) | 2021-07-06 |
 | 客户端渲染 | 寻找ajax接口                         | chrome开发者工具                                             |                                                              |            |
 |            |                                      | Fiddler/Charles 设置代理抓包                                 |                                                              |            |
 |            | 模拟浏览器执行                       | - selenium<br/>- splinter<br/>- spynner / Ghost.py<br/>- pyppeteer<br/>- PhantomJS<br/>- Splash<br/>- requests-html |                                                              |            |
