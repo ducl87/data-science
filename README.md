@@ -15,7 +15,7 @@
 | 分类       | 内容                                 | 链接                                                         | 状态                                                         | 更新时间   |
 | ---------- | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | 基本知识   | HTTP                                 | [HTTP简介](./contents/0.basic/HTTP简介.md)                   | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) | 2021-07-01 |
-|            |                                      | [Http headers简介 ](./contents/0.basic/Http headers简介.md)  |                                                              |            |
+|            |                                      | [HTTP消息头（HTTP headers）－常用的HTTP请求头与响应头](https://www.cnblogs.com/honghong87/articles/6941436.html) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) |            |
 |            |                                      | http 重定向Redirections简介                                  |                                                              |            |
 |            | HTML                                 | [HTML简介](./contents/0.basic/HTML简介.md)                   | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) | 2021-07-02 |
 |            |                                      | CSS选择器                                                    |                                                              |            |
