@@ -61,15 +61,43 @@
 
 ## 二、数据分析
 
-### 2.1 scikit-learn学习笔记
+### 2.1 数学基础
+
+| 分类     | 内容                                                         | 状态                                                         | 更新时间 |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 统计学   |                                                              |                                                              |          |
+| 线性代数 | [机器学习相关线性代数简介](./contents/2.1.math/机器学习相关线性代数简介.md) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E8%BF%9B%E8%A1%8C%E4%B8%AD-orange) |          |
+| 概率论   |                                                              |                                                              |          |
+|          |                                                              |                                                              |          |
+
+### 2.2 scikit-learn学习笔记
 
 ![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210707164807.png?x-oss-process=style/wp)
 
 | 分类                             | 内容                                                         | 状态                                                         | 更新时间   |
 | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| 基本知识                         | [Scikit-Learn简介](./contents/3.scikit-learn/Scikit-Learn简介.md) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) ![](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81-%E5%B7%B2%E9%AA%8C%E8%AF%81-success) | 2021-07-08 |
-| 分类（classification）           |                                                              |                                                              |            |
-| 回归（regression）               |                                                              |                                                              |            |
+| 基本知识                         | [Scikit-Learn简介](./contents/2.2.scikit-learn/Scikit-Learn简介.md) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E5%B7%B2%E5%AE%8C%E6%88%90-success) ![](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81-%E5%B7%B2%E9%AA%8C%E8%AF%81-success) | 2021-07-08 |
+| 分类（classification）           | Logistic Regression                                          |                                                              |            |
+|                                  | Support Vector Machine                                       |                                                              |            |
+|                                  | Naive Bayes (Gaussian, Multinomial)                          |                                                              |            |
+|                                  | Stochastic Gradient Descent Classifier                       |                                                              |            |
+|                                  | KNN (k-nearest neighbor)                                     |                                                              |            |
+|                                  | Decision Tree                                                |                                                              |            |
+|                                  | Random Forest                                                |                                                              |            |
+|                                  | Gradient Boosting Classifier                                 |                                                              |            |
+|                                  | LGBM Classifier                                              |                                                              |            |
+|                                  | XGBoost Classifier                                           |                                                              |            |
+| 回归（regression）               | Linear Regression                                            |                                                              |            |
+|                                  | LGBM Regressor                                               |                                                              |            |
+|                                  | XGBoost Regressor                                            |                                                              |            |
+|                                  | CatBoost Regressor                                           |                                                              |            |
+|                                  | Stochastic Gradient Descent Regression                       |                                                              |            |
+|                                  | Kernel Ridge Regression                                      |                                                              |            |
+|                                  | Elastic Net Regression                                       |                                                              |            |
+|                                  | Bayesian Ridge Regression                                    |                                                              |            |
+|                                  | Gradient Boosting Regression                                 |                                                              |            |
+|                                  | Support Vector Machine                                       |                                                              |            |
+|                                  |                                                              |                                                              |            |
 | 聚类（clustering）               |                                                              |                                                              |            |
 | 降维（dimensionality reduction） |                                                              |                                                              |            |
 
