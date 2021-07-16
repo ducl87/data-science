@@ -1,6 +1,6 @@
 # DataScience Note| 数据科学学习笔记
 
-记录自己数据科学的学习过程，主要分为数据获取、数据处理、可视化、练手项目等。
+记录自己数据科学的学习过程，主要分为数据获取、数据处理、可视化、练手项目等。博客链接：[https://enpeizhao.github.io/tags/#data-science](https://enpeizhao.github.io/tags/#data-science)
 
 因为在工作中经常与数据打交道，同时也对火热的机器学习、大数据等新技术感兴趣，但摸索了很久，一直没什么进步。一直处于兴头来了学一点，遇到不会的就Google，遇到较难的就退缩的状态。
 
