@@ -64,12 +64,16 @@
 
 ### 2.1 数学基础
 
+![](https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20210714155611.png?x-oss-process=style/wp)
+
 | 分类     | 内容                                                         | 状态                                                         | 更新时间 |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | 统计学   |                                                              |                                                              |          |
-| 线性代数 | [机器学习相关线性代数简介](./contents/2.1.math/机器学习相关线性代数简介.pdf) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E8%BF%9B%E8%A1%8C%E4%B8%AD-orange) |          |
+| 线性代数 | [博客链接-机器学习相关线性代数简介](https://blog.enpeizhao.com/data-science/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%80%E4%BB%8B.html) | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E8%BF%9B%E8%A1%8C%E4%B8%AD-orange) |          |
 | 概率论   |                                                              |                                                              |          |
-|          |                                                              |                                                              |          |
+| 其他     | 数学公式及符号等                                             | ![](https://img.shields.io/badge/%E6%96%87%E7%A8%BF-%E8%BF%9B%E8%A1%8C%E4%B8%AD-orange) |          |
+
+
 
 ### 2.2 scikit-learn学习笔记
 
