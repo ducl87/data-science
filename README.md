@@ -112,5 +112,5 @@
 
 | 类别               | 名称                                                         | 数据 | 源码 | 视频地址                                                     |
 | ------------------ | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
-| 分类 \| 奇异值检测 | [除了今日头条，还有哪些APP会被通报整改？](./projects/android_malware_analysis) | ✅    | ✅    | [YouTube](https://www.youtube.com/watch?v=lqpObIe-sM8&t=9s) \| [B站](https://www.bilibili.com/video/BV1Wq4y1s7XU) |
+| 分类 \| 奇异值检测 | [除了今日头条，还有哪些APP会被通报整改？](https://enpeizhao.github.io/2021/07/01/%E9%99%A4%E4%BA%86%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9Bapp%E4%BC%9A%E8%A2%AB%E9%80%9A%E6%8A%A5%E6%95%B4%E6%94%B9/) | ✅    | ✅    | [YouTube](https://www.youtube.com/watch?v=lqpObIe-sM8&t=9s) \| [B站](https://www.bilibili.com/video/BV1Wq4y1s7XU) |
 
