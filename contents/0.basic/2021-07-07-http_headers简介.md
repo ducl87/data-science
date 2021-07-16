@@ -1,6 +1,12 @@
-# Http headers简介
-
-> 编辑日期：2021-07-07
+---
+layout: post
+title: 'HTTP header简介'
+date: 2021-07-07
+tags:
+  HTTP
+  Header
+  data-science
+---
 
 ### 目录
 
