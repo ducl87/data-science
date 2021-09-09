@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/zhaoenpei/github/data-science/projects/douyin_videos/video1/media/videos/scene/3840p15/partial_movie_files/Scene1/4109196097_2691180756_2780373474.mp4'
+file 'file:/Users/zhaoenpei/github/data-science/projects/douyin_videos/video1/media/videos/scene/3840p15/partial_movie_files/Scene1/1019341800_2839631542_3116501708.mp4'
+file 'file:/Users/zhaoenpei/github/data-science/projects/douyin_videos/video1/media/videos/scene/3840p15/partial_movie_files/Scene1/1019341800_1298814623_3027241317.mp4'
+file 'file:/Users/zhaoenpei/github/data-science/projects/douyin_videos/video1/media/videos/scene/3840p15/partial_movie_files/Scene1/1019341800_2839631542_695775620.mp4'
+file 'file:/Users/zhaoenpei/github/data-science/projects/douyin_videos/video1/media/videos/scene/3840p15/partial_movie_files/Scene1/1019341800_1438271197_823862543.mp4'
